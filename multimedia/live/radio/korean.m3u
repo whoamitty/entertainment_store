@@ -1,0 +1,9 @@
+#EXTM3U
+#RADIOBROWSERUUID:c649b05d-2a19-11e9-96d1-52543be04c81
+#EXTINF:1,CPBC TV
+http://onair1.cpbc.co.kr:1935/tv/mp4:live720/playlist.m3u8
+
+#RADIOBROWSERUUID:38b5da3e-1859-47f3-9fb3-38e34741a84a
+#EXTINF:1,CPBC
+http://serpent0.duckdns.org:8088/cpbc.pls
+
